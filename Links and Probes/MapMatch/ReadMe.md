@@ -1,10 +1,10 @@
-This is to find the mapmatched point of a probe node to a link node. Go through the sample problem for better clarity.
+This is to find the map-matched point of a probe node to a link node. Go through the sample problem for better clarity.
 
 ### Steps involved:
 1. Find the closest probe to a particular link node.
 2. Now find a second link node that is the closest to these two.
 3. Form a triangle.
-4. Using the principles of finding the area of a triangle, Pythogaras theorem and simple math to find the perpendicular distance first, then the map matched point.
+4. Using the principles of finding the area of a triangle, Pythogaras theorem and simple math, find the perpendicular distance first, then the map matched point.
 
 **Note**: Proceed only if you have a link node and its closest probe node first.
 
