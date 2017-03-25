@@ -1,6 +1,6 @@
 This is to find the mapmatched point of a probe node to a link node. Go through the sample problem for better clarity.
 
-##### Steps involved:
+### Steps involved:
 1. Find the closest probe to a particular link node.
 2. Now find a second link node that is the closest to these two.
 3. Form a triangle.
